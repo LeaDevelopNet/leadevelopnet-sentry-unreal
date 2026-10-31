@@ -1,7 +1,7 @@
 # LeaDevelop Sentry Enhancements - Unreal Engine Plugin
 
 Extends the Sentry Unreal plugin with enhanced crash reporting and custom tag promotion.
-
+> [!IMPORTANT]
 > **Disclaimer**: Use at your own risk. No guarantees of accuracy, reliability, or suitability. Review and test before implementation into production or other environments of your project/s.
 
 ---
@@ -24,7 +24,7 @@ Automatically promotes Unreal Crash Reporter metadata to Sentry tags for easier 
 | Tag | Description |
 |-----|-------------|
 | `Changelist` | UE changelist number |
-| `EngineVersion` | UE version (e.g., 5.6.1) |
+| `EngineVersion` | UE version (e.g., 5.8.4) |
 | `Map` | Current level/map name |
 | `GameName` | Project name |
 | `BuildConfig` | Debug/Development/Test/Shipping |
@@ -49,7 +49,7 @@ Automatically promotes Unreal Crash Reporter metadata to Sentry tags for easier 
 
 ## Requirements
 - Sentry self hosted instance or Sentry cloud 
-- Unreal Engine `5.6.*` or `5.7.*` project
+- Unreal Engine `5.6.*`, `5.7.*`, `5.8.*` project
 - Sentry Unreal SDK plugin
 - Windows 64-bit (additional platforms can be configured)
 
