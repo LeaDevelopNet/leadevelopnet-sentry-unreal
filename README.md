@@ -1,7 +1,7 @@
 # LeaDevelop Sentry Enhancements - Unreal Engine Plugin
 
 Extends the Sentry Unreal plugin with enhanced crash reporting and custom tag promotion.
-
+> [!IMPORTANT]
 > **Disclaimer**: Use at your own risk. No guarantees of accuracy, reliability, or suitability. Review and test before implementation into production or other environments of your project/s.
 
 ---
