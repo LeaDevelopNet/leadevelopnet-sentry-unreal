@@ -49,7 +49,7 @@ Automatically promotes Unreal Crash Reporter metadata to Sentry tags for easier 
 
 ## Requirements
 - Sentry self hosted instance or Sentry cloud 
-- Unreal Engine `5.6.*` or `5.7.*` project
+- Unreal Engine `5.6.*`, `5.7.*`, `5.8.*` project
 - Sentry Unreal SDK plugin
 - Windows 64-bit (additional platforms can be configured)
 
