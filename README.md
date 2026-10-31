@@ -24,7 +24,7 @@ Automatically promotes Unreal Crash Reporter metadata to Sentry tags for easier 
 | Tag | Description |
 |-----|-------------|
 | `Changelist` | UE changelist number |
-| `EngineVersion` | UE version (e.g., 5.6.1) |
+| `EngineVersion` | UE version (e.g., 5.8.4) |
 | `Map` | Current level/map name |
 | `GameName` | Project name |
 | `BuildConfig` | Debug/Development/Test/Shipping |
